@@ -1,0 +1,54 @@
+{
+    "root": "./",
+    "title": "管理员操作手册",
+    "author": "kungeek worker",
+    "description": "BAP平台管理员操作手册",
+    "language": "zh-hans",
+    "copyright": "All Rights Reserved",
+    "plugins": [
+        "theme-code@0.0.20",
+        "-sharing",
+        "-lunr", 
+        "-search",
+        "search-pro",
+        "splitter",
+        "tbfed-pagefooter",
+        "-expandable-chapters-small",
+        "expandable-chapters",
+        "-github",
+        "-sharing-plus",
+        "anchor-navigation-ex",
+        "-edit-link",
+        "-chapter-fold",
+        "-code",
+        "-copy-code-button",
+        "todo",
+        "emphasize",
+        "sectionx",
+        "-pageview-count",
+        "popup",
+        "lightbox",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 2019",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "expandable-chapters":{},
+        "theme-default": {
+            "showLevel": false
+        },
+        "anchor-navigation-ex":{
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico"
+        }
+    },
+    "style": {
+        "website": "styles/website.css"
+    }
+}

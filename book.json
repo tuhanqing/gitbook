@@ -1,8 +1,8 @@
 {
     "root": "./",
-    "title": "管理员操作手册",
-    "author": "kungeek worker",
-    "description": "BAP平台管理员操作手册",
+    "title": "",
+    "author": "",
+    "description": "",
     "language": "zh-hans",
     "copyright": "All Rights Reserved",
     "plugins": [
